@@ -1,0 +1,9 @@
+venv
+__pycache__
+.vscode
+.idea
+out
+*.zip
+*.h5
+preprocessed_train_data
+preprocessed_test_data
